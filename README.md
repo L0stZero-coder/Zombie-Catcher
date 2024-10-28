@@ -3,9 +3,13 @@
 A complete Java program, using the control flow constructs described in the lectures. 
 
 That is: 
+
 . Sequencing
+
 . Branching
+
 . Loops
+
 . Method Calls.
 
 A program that interacts with the user via a Scanner and performs some simple calculations.
